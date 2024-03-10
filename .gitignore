@@ -3,3 +3,4 @@
 *.gz
 *ubyte
 .vscode
+saved_models/optim
