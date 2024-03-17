@@ -4,3 +4,5 @@
 *ubyte
 .vscode
 saved_models/optim
+saved_models/t5
+data
