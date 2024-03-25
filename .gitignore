@@ -5,4 +5,7 @@
 .vscode
 saved_models/optim
 saved_models/t5
+saved_models/t6
+*.ckpt
+d1/wandb
 data
